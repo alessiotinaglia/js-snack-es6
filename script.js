@@ -24,7 +24,6 @@ const biciclette = [
     },
 ];
 
-// 
 let biciLeggera = biciclette[0];
 for (let i = 0; i < biciclette.length; i++) {
     if (biciclette[i].peso < biciLeggera.peso) {
