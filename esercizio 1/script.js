@@ -32,7 +32,7 @@ for (let i = 0; i < biciclette.length; i++) {
 }
 console.log(biciLeggera);
 
-const main = document.querySelector("main")
+const main = document.querySelector("main");
 
 const template = `
 <div className="card">
